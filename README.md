@@ -1,4 +1,4 @@
-Este repositório é um exemplo da turma NeoEvolution de Tecnicas de Programação 1
+Este repositório é um exemplo de uma aula de github
 
 Para clonar basta utilizar
 
